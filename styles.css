@@ -46,3 +46,11 @@ p {
   background-color: black;
   border: 0;
 }
+
+.small-text {
+  font-size: 0.85rem; /* rem = tamaño fuente raiz de la pagina, por defecto este valor es de 16px */
+}
+
+.calories-info h2 {
+  margin: 0;
+}
