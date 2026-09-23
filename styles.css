@@ -51,6 +51,12 @@ p {
   font-size: 0.85rem; /* rem = tamaño fuente raiz de la pagina, por defecto este valor es de 16px */
 }
 
+.calories-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
 .calories-info h2 {
   margin: 0;
 }
