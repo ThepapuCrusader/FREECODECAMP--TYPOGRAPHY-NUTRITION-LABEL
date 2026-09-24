@@ -47,6 +47,10 @@ p {
   border: 0;
 }
 
+.medium {
+  height: 5px;
+}
+
 .small-text {
   font-size: 0.85rem; /* rem = tamaño fuente raiz de la pagina, por defecto este valor es de 16px */
 }
