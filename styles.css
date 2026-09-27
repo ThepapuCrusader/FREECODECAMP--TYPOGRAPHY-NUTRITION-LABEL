@@ -92,3 +92,10 @@ p {
 .daily-value p:not(.no-divider) { /* la pseudo clase :not() aplica cambios unicamente a elementos que no tengan un atributo o elemento en especifico, en este caso la clase "no-divider" */
   border-bottom: 1px solid #888989;
 }
+
+.note {
+  font-size: 0.6rem;
+  margin: 5px 0;
+  padding: 0 8px;
+  text-indent: -8px; /* text-indent establece el esapacio entre caracteres y contenedor bloque, el valor por defecto es 0*/
+}
